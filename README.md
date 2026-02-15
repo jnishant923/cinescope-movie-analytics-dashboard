@@ -33,6 +33,34 @@ This dashboard helps in understanding movie distribution patterns and genre popu
 - Significant fluctuations observed in yearly movie releases.
 - Wide diversity of movie languages.
 
+## 📊 Dashboard Highlights
+
+![Dashboard Preview](![Vaxscope_Dashboard.png
+](<img width="1310" height="731" alt="Screenshot 2025-06-22 035623" src="https://github.com/user-attachments/assets/43389849-b000-4dda-a560-e74db3d0fa19" />
+)
+)
+
+---
+
+## ▶️  Video
+
+Watch the full workflow and dashboard build in this [!screen recording](https://drive.google.com/file/d/1v70PRp2v1iXfAhcnLSnr_qDd_gbPsl6k/view?usp=drive_link)"
+
+
+## 🧠 Learnings
+
+- Integrated multiple data sources using Pandas and SQL
+- Practiced real-world EDA (Exploratory Data Analysis)
+- Built insightful and clean visualizations in Power BI
+- Improved data storytelling and project documentation
+
+---
+
+## 🤝 Open to Feedback & Opportunities
+
+If you have any suggestions, or if you're hiring for internships or junior analyst roles — feel free to connect!
+
+
   
 
 
