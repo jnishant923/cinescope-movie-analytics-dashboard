@@ -35,8 +35,8 @@ This dashboard helps in understanding movie distribution patterns and genre popu
 
 ## 📊 Dashboard Highlights
 
-![Dashboard Preview](![Vaxscope_Dashboard.png
-](<img width="1310" height="731" alt="Screenshot 2025-06-22 035623" src="https://github.com/user-attachments/assets/43389849-b000-4dda-a560-e74db3d0fa19" />
+![Dashboard Preview](![Cinescope_Dashboard.png
+]("https://github.com/user-attachments/assets/ed8eee19-77c1-4a0c-a037-698c25022d46"/>
 )
 )
 
