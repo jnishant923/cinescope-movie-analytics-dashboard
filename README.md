@@ -36,7 +36,7 @@ This dashboard helps in understanding movie distribution patterns and genre popu
 ## 📊 Dashboard Highlights
 
 ![Dashboard Preview](![Cinescope_Dashboard.png
-](https://drive.google.com/file/d/1hh9aNFjJpJuc_OZ95cg3tTXvJpauUhKB/view?usp=drive_link
+](https://drive.google.com/file/d/1hh9aNFjJpJuc_OZ95cg3tTXvJpauUhKB/view?usp=drive_link)
 )
 
 ---
